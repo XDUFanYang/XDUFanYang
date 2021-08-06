@@ -4,9 +4,10 @@
 I recently learn the new idea "process-in-memory".
 If you share the same interest, feel free to chat with me via <faron.young.yf@gmail.com> and I'm eager to chat with new friends.
 
+<div>
 <img width="350px" height="165px" src="https://github-readme-stats.vercel.app/api?username=XDUFanYang">
 <img width="350px" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDUFanYang">
-
+</div>
 
 
 <!--
