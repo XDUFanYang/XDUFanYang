@@ -2,7 +2,7 @@
 
 👋Hi, I'm Yang Fan. I will go on learning somthing about systems such as Operating System, and Computer architecture in the future years. 
 I recently learn the new idea "process-in-memory".
-If you share the same interest, feel free to chat with me via email and I'm eager to chat with new friends.
+If you share the same interest, feel free to chat with me via [email](faron.young.yf@gmail.com) and I'm eager to chat with new friends.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XDUFanYang)](https://github.com/XDUFanYang/github-readme-stats)
 
