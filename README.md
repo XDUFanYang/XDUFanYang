@@ -9,10 +9,10 @@ If you share the same interest, feel free to chat with me via <faron.young.yf@gm
  <img width=350px height=165px src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDUFanYang">
 </div>
 
-<table><tr>
+<div>
 <td><img height=165px src="https://github-readme-stats.vercel.app/api?username=XDUFanYang" ></td>
 <td><img height=165px src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDUFanYang" ></td>
-</tr></table>
+</div>
 
 
 <!--
