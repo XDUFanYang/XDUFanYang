@@ -10,8 +10,8 @@ If you share the same interest, feel free to chat with me via <faron.young.yf@gm
 </div>
 
 <table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=XDUFanYang" border=0></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDUFanYang" border=0></td>
+<td><img height=165px src="https://github-readme-stats.vercel.app/api?username=XDUFanYang" ></td>
+<td><img height=165px src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDUFanYang" ></td>
 </tr></table>
 
 
